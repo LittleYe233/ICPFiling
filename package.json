@@ -1,10 +1,11 @@
 {
   "name": "icp-filing",
   "version": "1.0.0",
-  "description": "A simple ICP filing system",
+  "description": "A simple ICP filing system powered by NodeJS & Express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,14 @@
     "backend",
     "SQL"
   ],
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  },
   "author": "LittleYe233",
   "license": "GPL-3.0",
   "bugs": {
