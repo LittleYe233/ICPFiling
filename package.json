@@ -1,0 +1,26 @@
+{
+  "name": "icp-filing",
+  "version": "1.0.0",
+  "description": "A simple ICP filing system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleYe233/ICPFiling.git"
+  },
+  "keywords": [
+    "ICP",
+    "web",
+    "frontend",
+    "backend",
+    "SQL"
+  ],
+  "author": "LittleYe233",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LittleYe233/ICPFiling/issues"
+  },
+  "homepage": "https://github.com/LittleYe233/ICPFiling#readme"
+}
