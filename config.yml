@@ -1,0 +1,13 @@
+secrets:
+  - secrets/secret.yml
+
+database:
+  icp_filing_numbers:
+    # host (default: localhost)
+    host:
+    # port (default: 3389)
+    port:
+    # database
+    db:
+    # table
+    tbl:
